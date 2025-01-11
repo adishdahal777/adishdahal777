@@ -84,4 +84,12 @@ Feel free to reach out to discuss your project ideas or opportunities to work to
 
 ---
 
+## 📊 GitHub Stats
+
+![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adish-dahal&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adish-dahal&layout=compact&theme=radical)
+
+---
+
 Thank you for visiting my GitHub profile. Let's create something amazing together!
