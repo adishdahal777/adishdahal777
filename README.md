@@ -40,7 +40,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
 ---
 
 ## 🎨 Skills
-## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Core Languages
 
@@ -90,6 +89,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
     <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"></a>
 </p>
 
+---
 
 ## 🔧 Projects
 
