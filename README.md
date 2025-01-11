@@ -92,6 +92,32 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
 
 ---
 
+
+## 🛠️ What I Can Do
+- Build responsive web applications that perform flawlessly across devices.
+- Design intuitive user interfaces aligned with user goals and business objectives.
+- Develop scalable backend systems to support complex applications.
+- Deliver cross-platform mobile apps with React Native.
+
+---
+
+## 🚀 Let's Collaborate!
+Feel free to reach out to discuss your project ideas or opportunities to work together. Whether you need a polished website, a feature-rich mobile app, or a captivating UI/UX design, I'm here to help!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adish%20Dahal-blue?logo=linkedin)](https://linkedin.com/in/adishdahal777)
+[![Email](https://img.shields.io/badge/Email-me.adishdahal@example.com-red?logo=gmail)](mailto:adish.dahal@example.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adishdahal777&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adishdahal777&layout=compact&theme=radical)
+
+--
+
+
 ## 🔧 Projects
 <div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px; background-color: #f9f9f9;">
     
@@ -167,30 +193,6 @@ For a full feature list, demo, or to learn more about the **Restaurant Managemen
 *(Including Soon)*  
         
 </div>
-
----
-
-## 🛠️ What I Can Do
-- Build responsive web applications that perform flawlessly across devices.
-- Design intuitive user interfaces aligned with user goals and business objectives.
-- Develop scalable backend systems to support complex applications.
-- Deliver cross-platform mobile apps with React Native.
-
----
-
-## 🚀 Let's Collaborate!
-Feel free to reach out to discuss your project ideas or opportunities to work together. Whether you need a polished website, a feature-rich mobile app, or a captivating UI/UX design, I'm here to help!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adish%20Dahal-blue?logo=linkedin)](https://linkedin.com/in/adishdahal777)
-[![Email](https://img.shields.io/badge/Email-me.adishdahal@example.com-red?logo=gmail)](mailto:adish.dahal@example.com)
-
----
-
-## 📊 GitHub Stats
-
-![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adishdahal777&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adishdahal777&layout=compact&theme=radical)
 
 ---
 
