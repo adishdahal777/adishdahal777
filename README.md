@@ -92,90 +92,88 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
 ---
 
 ## 🔧 Projects
+<div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px; background-color: #f9f9f9;">
+    
+# Restaurant Management System (RMS)  
 
-    <!-- Box Start -->
-    <div style="border: 1px solid #ddd; padding: 20px; border-radius: 8px; background-color: #f9f9f9;">
-          
-        # Restaurant Management System (RMS)  
+The **Restaurant Management System (RMS)** is a robust, hierarchical platform designed to streamline operations for large-scale restaurants. With six distinct user roles, the system caters to the specific needs of each restaurant staff type, ensuring efficient communication and task management.  
+
+🌐 **Hosted at:** [restaurant.techware.com.np](http://restaurant.techware.com.np)  
+
+---
+
+## 🔧 Technologies Used  
+
+### **Programming Languages and Frameworks**  
+<a href="https://laravel.com"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>  
+<a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>  
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>  
+<a href="https://jquery.com"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white"></a>  
+
+### **Libraries and Tools**  
+<a href="https://sweetalert2.github.io"><img alt="SweetAlert" src="https://img.shields.io/badge/SweetAlert-%2343A047.svg?logo=javascript&logoColor=white"></a>  
+<a href="https://pusher.com"><img alt="Pusher" src="https://img.shields.io/badge/Pusher-%23663399.svg?logo=pusher&logoColor=white"></a>  
+
+---
+
+## 🚀 Key Features  
+
+### 🌟 What Sets RMS Apart?  
+The RMS stands out from other software in the market due to its role-based system, making it ideal for large restaurants with diverse staff requirements.  
+
+### 👥 User Roles and Responsibilities  
+1. **Admin**  
+   - Appoints managers for restaurants.  
+   - Views restaurant bills and payments.  
+
+2. **Manager**  
+   - Manages users like Counter, Bar, Kitchen, and Waiter.  
+   - Adds items to stock from purchases.  
+   - Creates, updates, and deletes menu items.  
+
+3. **Counter**  
+   - Receives orders from customers and waiters.  
+   - Updates customer orders as needed.  
+
+4. **Kitchen**  
+   - Processes orders related to the kitchen from counter, waiter, or customers.  
+
+5. **Bar**  
+   - Processes orders related to the bar category.  
+
+6. **Waiter**  
+   - Takes orders from customers using a mobile application.  
+
+### 📱 Customer Features  
+- Customers can place orders directly via an Android application by selecting their table name.  
+
+---
+
+## 🌟 Additional Benefits  
+- **Comprehensive Management**: Handles multiple restaurants with ease.  
+- **Custom Mobile App**: A dedicated Android app is available for seamless customer interaction.  
+- **Efficient Communication**: Real-time notifications using Pusher.  
+
+---
+
+## 📌 Want to See More?  
+For a full feature list, demo, or to learn more about the **Restaurant Management System**, feel free to contact us.  
+
+---
+
+## 📷 Demo Screenshots  
+*(Include screenshots here if available)*  
+
+---
+
+## 📫 Contact  
+Feel free to reach out for inquiries or collaborations:  
+<a href="mailto:me.adishdahal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>  
+<a href="https://linkedin.com/in/adishdahal777"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>  
+
+---
         
-        The **Restaurant Management System (RMS)** is a robust, hierarchical platform designed to streamline operations for large-scale restaurants. With six distinct user roles, the system caters to the specific needs of each restaurant staff type, ensuring efficient communication and task management.  
-        
-        🌐 **Hosted at:** [restaurant.techware.com.np](http://restaurant.techware.com.np)  
-        
-        ---
-        
-        ## 🔧 Technologies Used  
-        
-        ### **Programming Languages and Frameworks**  
-        <a href="https://laravel.com"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"></a>  
-        <a href="https://getbootstrap.com"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white"></a>  
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>  
-        <a href="https://jquery.com"><img alt="jQuery" src="https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white"></a>  
-        
-        ### **Libraries and Tools**  
-        <a href="https://sweetalert2.github.io"><img alt="SweetAlert" src="https://img.shields.io/badge/SweetAlert-%2343A047.svg?logo=javascript&logoColor=white"></a>  
-        <a href="https://pusher.com"><img alt="Pusher" src="https://img.shields.io/badge/Pusher-%23663399.svg?logo=pusher&logoColor=white"></a>  
-        
-        ---
-        
-        ## 🚀 Key Features  
-        
-        ### 🌟 What Sets RMS Apart?  
-        The RMS stands out from other software in the market due to its role-based system, making it ideal for large restaurants with diverse staff requirements.  
-        
-        ### 👥 User Roles and Responsibilities  
-        1. **Admin**  
-           - Appoints managers for restaurants.  
-           - Views restaurant bills and payments.  
-        
-        2. **Manager**  
-           - Manages users like Counter, Bar, Kitchen, and Waiter.  
-           - Adds items to stock from purchases.  
-           - Creates, updates, and deletes menu items.  
-        
-        3. **Counter**  
-           - Receives orders from customers and waiters.  
-           - Updates customer orders as needed.  
-        
-        4. **Kitchen**  
-           - Processes orders related to the kitchen from counter, waiter, or customers.  
-        
-        5. **Bar**  
-           - Processes orders related to the bar category.  
-        
-        6. **Waiter**  
-           - Takes orders from customers using a mobile application.  
-        
-        ### 📱 Customer Features  
-        - Customers can place orders directly via an Android application by selecting their table name.  
-        
-        ---
-        
-        ## 🌟 Additional Benefits  
-        - **Comprehensive Management**: Handles multiple restaurants with ease.  
-        - **Custom Mobile App**: A dedicated Android app is available for seamless customer interaction.  
-        - **Efficient Communication**: Real-time notifications using Pusher.  
-        
-        ---
-        
-        ## 📌 Want to See More?  
-        For a full feature list, demo, or to learn more about the **Restaurant Management System**, feel free to contact us.  
-        
-        ---
-        
-        ## 📷 Demo Screenshots  
-        *(Include screenshots here if available)*  
-        
-        ---
-        
-        ## 📫 Contact  
-        Feel free to reach out for inquiries or collaborations:  
-        <a href="mailto:me.adishdahal@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white"></a>  
-        <a href="https://linkedin.com/in/adishdahal777"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>  
-        
-        ---
-        
-    </div>
+</div>
 
 ---
 
