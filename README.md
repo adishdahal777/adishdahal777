@@ -79,7 +79,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
 ## 🚀 Let's Collaborate!
 Feel free to reach out to discuss your project ideas or opportunities to work together. Whether you need a polished website, a feature-rich mobile app, or a captivating UI/UX design, I'm here to help!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adish%20Dahal-blue?logo=linkedin)](https://linkedin.com/in/adish-dahal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adish%20Dahal-blue?logo=linkedin)](https://linkedin.com/in/adishdahal777)
 [![Email](https://img.shields.io/badge/Email-me.adishdahal@example.com-red?logo=gmail)](mailto:adish.dahal@example.com)
 
 ---
