@@ -1,5 +1,7 @@
 # Hi there, I'm Adish Dahal! 👋
 
+![Banner](https://media.licdn.com/dms/image/v2/D4D16AQGh5A3uZpDcUg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1690302202721?e=1741824000&v=beta&t=_E1F0XfTZ3ho1LmsCz-_RiUSeTKBuvozMUBIAvhdnpY)
+
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End Developer, and UI/UX Designer with years of experience in creating user-focused digital experiences. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
 
 ---
