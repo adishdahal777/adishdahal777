@@ -80,15 +80,15 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End D
 Feel free to reach out to discuss your project ideas or opportunities to work together. Whether you need a polished website, a feature-rich mobile app, or a captivating UI/UX design, I'm here to help!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adish%20Dahal-blue?logo=linkedin)](https://linkedin.com/in/adish-dahal)
-[![Email](https://img.shields.io/badge/Email-adish.dahal@example.com-red?logo=gmail)](mailto:adish.dahal@example.com)
+[![Email](https://img.shields.io/badge/Email-me.adishdahal@example.com-red?logo=gmail)](mailto:adish.dahal@example.com)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adish-dahal&show_icons=true&theme=radical)
+![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adishdahal777&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adish-dahal&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adishdahal777&layout=compact&theme=radical)
 
 ---
 
