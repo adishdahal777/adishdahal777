@@ -1,5 +1,5 @@
 
-# Hi there, I'm Adish Dahal! 👋
+# Hi there, I'm Adish Dahal! 
 
 
 Welcome to my GitHub profile! I'm a passionate Full Stack Developer, Front-End Developer, and UI/UX Designer with years of experience in creating user-focused digital experiences. Here, you'll find my projects, contributions, and a glimpse of my technical journey.
