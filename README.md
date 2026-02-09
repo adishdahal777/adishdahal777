@@ -120,11 +120,5 @@ I’m always open to collaborating on innovative products, SaaS platforms, and s
 
 ---
 
-## 📊 GitHub Stats
-
-![Adish's GitHub stats](https://github-readme-stats.vercel.app/api?username=adishdahal777\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adishdahal777\&layout=compact\&theme=radical)
-
 
 ⭐ *Thank you for visiting my GitHub profile. Let’s build something impactful together!*
